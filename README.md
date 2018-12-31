@@ -14,3 +14,12 @@
     - Flask
     - OAuth2Client
     - SQLAlchemy
+  - Configured WSGI
+    - Created new virtual host file for Catalog_App.conf.
+    - Disabled default virtual host and enabled new virtual host.
+    - Created wsgi script in the folder containing the python server.
+    
+  ## Resources used
+    - http://terokarvinen.com/2016/deploy-flask-python3-on-apache2-ubuntu
+    - http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
+    
