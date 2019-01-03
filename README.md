@@ -3,6 +3,7 @@
 ## Connecting
   - IP Address: 3.17.76.65
   - Port: 2200
+  - URL: http://3.17.76.65.xip.io/catalog
   
  ## Software and Configuration Installed
   - Installed Apache2
